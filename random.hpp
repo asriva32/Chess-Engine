@@ -1,7 +1,3 @@
-//
-// Created by jpark9013 on 3/29/23.
-//
-
 #ifndef ADSCHESS_RANDOM_HPP
 #define ADSCHESS_RANDOM_HPP
 
